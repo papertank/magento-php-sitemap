@@ -16,6 +16,7 @@ class PT_Magento_Sitemap {
 	public function formatDate($datetime)
 	{
 		$timestamp = strtotime($datetime);
+		return date('Y-m-d', $timestamp);
 	}
 	
 	public function addUrl($loc, $priority = '1', $lastmod = NULL)
