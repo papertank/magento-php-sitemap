@@ -40,7 +40,7 @@ Feel free to submit an issue if you find any problems or bugs.
 
 ## Development
 
-- Source hosted at [GitHub](https://github.com/papertank/magento-postmark)
+- Source hosted at [GitHub](https://github.com/papertank/magento-php-sitemap)
 - Please fork and make suggested updates and improvements
 
 ## Authors
